@@ -1,0 +1,11 @@
+ALWAYS MAKE SURE YOU ARE ALSO READING THE BLOG POST SINCE IT GETS UPDATED FREQUENTLY
+
+I've made few shortcuts here to make it easier for you to follow the guide.
+
+- From 1 - 4.6, all you have to do is to double click the shortcut, and then delete
+anything related to Game / Launcher.
+
+then
+
+- Open shortcut 5 and 5.1 , and copy the locations from the text file and paste them
+on the registry search bar, and again Delete anything related to the game/launcher(Sidebar). (MORE INFO ON WEBSITE)

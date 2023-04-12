@@ -1,0 +1,15 @@
+I created a script that will automatically move the required files to C drive and then change your
+Disks ID as well.
+
+How it works: 
+
+- Right Click on the "Change Disk IDs" file , and run it As Administrator
+- You will see intructions on screen it's pretty straight forward.
+- At some point it will ask you which Drives ID you want to change, just press the letter and hit enter
+for example: C
+    ******don't put C: or C:\ or C:/*******
+- The script will change your Drives ID to a random string and then it will close
+- If you have more than 1 Disks, make sure to run the script again and when it asks you for the
+Drives letter, put the other one.
+
+DO THE SAME THING UNTIL YOU CHANGE ALL YOUR DRIVES IDs

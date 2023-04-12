@@ -1,0 +1,7 @@
+This script will run AMIWIN64 and all the commands needed to change every single HWID on your system 
+that could possibly link you back to the ban.
+
+- "Run as Administrator" -> 1. Change ALL HWIDs.cmd
+Press any key.
+That's it.
+Press any key again.

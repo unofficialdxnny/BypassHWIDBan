@@ -1,0 +1,3 @@
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Cryptography
+
+Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\IDConfigDB\Hardware Profiles\0001
